@@ -42,5 +42,5 @@ Visualizing the countries with the highest number of confirmed cases:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Hikma-Ahmed7040/Covid-19-data-analysis
+cd Covid-19-Data-analysis
