@@ -33,7 +33,7 @@ Developed in **Jupyter Notebook** with:
 ### 📈 Top 5 Affected Countries
 Visualizing the countries with the highest number of confirmed cases:
 
-![Top Countries](./insightImages/top10Countries.pnge)
+![Top Countries](./insightImages/top10Countries.png)
 
 ---
 
